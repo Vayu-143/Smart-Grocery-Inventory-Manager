@@ -53,23 +53,23 @@ A modern full-stack **MERN (MongoDB, Express.js, React.js, Node.js)** applicatio
 
 ### Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ### Login Page
 
-![Login](./screenshots/login.png)
+![Login](screenshots/login.png)
 
 ### Register Page
 
-![Register](./screenshots/register.png)
+![Register](screenshots/register.png)
 
 ### Add Item
 
-![Add Item](./screenshots/add-item.png)
+![Add Item](screenshots/add-item.png)
 
 ### Inventory Table
 
-![Inventory Table](./screenshots/inventory-table.png)
+![Inventory Table](screenshots/inventory-table.png)
 
 ---
 
